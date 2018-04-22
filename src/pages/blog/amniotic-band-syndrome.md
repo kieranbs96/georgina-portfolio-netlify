@@ -31,7 +31,7 @@ For ABS to occur part of the uterus membrane has to rupture, leading me to think
 
 <picture>
 
-  ![ABS Present on fingers of a newborn](./abs__1.png "ABS Present on fingers of a newborn")
+  ![ABS Present on fingers of a newborn](/img/abs__1.png "ABS Present on fingers of a newborn")
 
   <span class="blog__full-article-image-caption tertiary">
     Figure 1 ABS present on fingers of a newborn, image by: https://en.wikipedia.org/wiki/Amniotic_band_constriction
