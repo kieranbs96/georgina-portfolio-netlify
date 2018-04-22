@@ -1,12 +1,11 @@
 ---
 templateKey: blog-post
 title: Amniotic Band Syndrome (ABS)
-date: 2018-03-2018
 description: >-
   The rare condition that develops in utero results in a variety of different deformities in those that have ABS. ABS occurs when thick amniotic bands constrict around limbs or extremities, some causing constriction and some causing complete amputation.
 tags:
   - nursing
-  - amniotic band syndrome
+  - amniotic
 ---
 
 <div class="blog__full-article">
