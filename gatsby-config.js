@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Georgina Cross - Registered Nurse - UK',
+    siteUrl: 'https://www.georginacross.co.uk',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
